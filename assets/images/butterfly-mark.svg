@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Butterfly mark">
+  <path
+    d="M32 33 C24 18 12 14 9 24 C6 35 17 42 31 35 M32 33 C40 18 52 14 55 24 C58 35 47 42 33 35 M32 31 L32 48 M26 25 C29 29 30 33 31 38 M38 25 C35 29 34 33 33 38"
+    fill="none"
+    stroke="#202124"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="3"
+  />
+  <path
+    d="M29 19 C30 16 31 14 32 12 C33 14 34 16 35 19"
+    fill="none"
+    stroke="#202124"
+    stroke-linecap="round"
+    stroke-width="3"
+  />
+</svg>

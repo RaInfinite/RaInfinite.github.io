@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Hidden goal inference</title>
+  <desc id="desc">Signals on the surface pointing toward several possible hidden goals.</desc>
+  <rect width="900" height="560" fill="#f6f2ea"/>
+  <rect x="104" y="92" width="692" height="352" rx="18" fill="#fffdf8" stroke="#d0c8bb"/>
+  <circle cx="450" cy="270" r="76" fill="#ece6d8" stroke="#536f63" stroke-width="3"/>
+  <text x="450" y="278" text-anchor="middle" fill="#22221f" font-family="Georgia, serif" font-size="30">hidden goal</text>
+  <g fill="none" stroke="#74313a" stroke-width="3" stroke-linecap="round">
+    <path d="M252 172 C320 180 352 214 384 238"/>
+    <path d="M250 346 C320 336 354 316 384 296"/>
+    <path d="M648 176 C574 188 546 216 516 240"/>
+    <path d="M650 348 C584 334 548 315 516 296"/>
+  </g>
+  <g fill="#536f63" font-family="Avenir Next, sans-serif" font-size="22">
+    <text x="178" y="160">search</text>
+    <text x="168" y="362">favorite</text>
+    <text x="650" y="160">cart</text>
+    <text x="636" y="362">return visit</text>
+  </g>
+  <path d="M150 470 C290 420 388 493 530 438 C646 392 730 408 820 374" fill="none" stroke="#438e84" stroke-opacity=".35" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Test-Time Compute Changes What a Benchmark Means | Ra's Log</title>
+    <meta name="description" content="A short note on test-time compute and benchmark interpretation.">
+    <link rel="stylesheet" href="../../site.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-title" href="../../"><span class="site-mark" aria-hidden="true"><img src="../../assets/images/butterfly-mark.svg" alt=""></span><span>Ra's Log</span></a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="../../">Posts</a>
+        <a href="../../questions/">Questions</a>
+        <a href="../../archives/">Archive</a>
+        <a href="../../search/">Search</a>
+        <a href="../../tags/">Tags</a>
+        <a href="../../faq/">FAQ</a>
+      </nav>
+    </header>
+
+    <main class="site-main">
+      <article>
+        <h1>Test-Time Compute Changes What a Benchmark Means</h1>
+        <p class="post-meta">Date: July 7, 2026 | Estimated Reading Time: 5 min | Author: ra_xxx</p>
+        <figure class="post-image">
+          <img src="../../assets/images/test-time-compute.svg" alt="A curve showing capability increasing with more inference budget.">
+        </figure>
+        <div class="post-content">
+          <p>
+            A model is not just a fixed score on a leaderboard. The same model can
+            behave differently when it gets more time, more attempts, more tool
+            calls, or more verification.
+          </p>
+          <p>
+            This is the basic point behind test-time compute. The compute used
+            during deployment can change the practical capability of the system.
+            A single benchmark number therefore hides the budget under which the
+            number was produced.
+          </p>
+          <h3>My current understanding</h3>
+          <p>
+            Extra thinking is not magic. If a system lacks the relevant fact, more
+            time alone will not create that fact. But for problems that can be
+            searched, decomposed, tested, or verified, extra test-time compute can
+            make the same base model much stronger.
+          </p>
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <p>© 2026 <a href="../../">Ra's Log</a> Powered by static HTML & GitHub Pages</p>
+    </footer>
+  </body>
+</html>

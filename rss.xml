@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Ra's Log</title>
+    <link>https://example.github.io/</link>
+    <description>Learning notes by ra_xxx on AI systems, evaluation, human models, shopping agents, and clear thinking.</description>
+    <language>en</language>
+    <item>
+      <title>Test-Time Compute Changes What a Benchmark Means</title>
+      <link>https://example.github.io/posts/test-time-compute/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      <description>Model capability is closer to a budget function than a single score.</description>
+    </item>
+    <item>
+      <title>Hidden Goals Are Not Directly Visible</title>
+      <link>https://example.github.io/posts/hidden-goal/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
+      <description>User actions are traces, not complete goals.</description>
+    </item>
+    <item>
+      <title>A Benchmark Is a Value Statement</title>
+      <link>https://example.github.io/posts/benchmark-as-value-statement/</link>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0800</pubDate>
+      <description>A benchmark decides what behavior gets rewarded.</description>
+    </item>
+  </channel>
+</rss>

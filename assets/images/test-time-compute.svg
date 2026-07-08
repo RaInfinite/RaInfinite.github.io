@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Test-time compute budget curve</title>
+  <desc id="desc">A quiet chart-like illustration showing capability rising with budget.</desc>
+  <rect width="900" height="560" fill="#f4f0e8"/>
+  <path d="M0 430 C150 380 270 470 420 405 C590 330 690 340 900 250 L900 560 L0 560Z" fill="#ded7c8"/>
+  <circle cx="695" cy="115" r="58" fill="#efe9da" stroke="#b9b1a3"/>
+  <path d="M160 420 C245 400 310 352 385 306 C470 254 540 226 628 190" fill="none" stroke="#74313a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M160 420 L160 150 M160 420 L690 420" fill="none" stroke="#22221f" stroke-opacity=".42" stroke-width="2"/>
+  <g fill="#536f63" font-family="Georgia, serif" font-size="28">
+    <text x="108" y="132">capability</text>
+    <text x="632" y="462">budget</text>
+  </g>
+  <g fill="#22221f" opacity=".68" font-family="Avenir Next, sans-serif" font-size="20">
+    <text x="218" y="374">one answer</text>
+    <text x="401" y="266">many attempts</text>
+    <text x="583" y="178">verify + tools</text>
+  </g>
+</svg>
