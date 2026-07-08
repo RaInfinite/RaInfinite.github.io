@@ -1,7 +1,7 @@
 const SEARCH_INDEX = [
   {
     title: "Test-Time Compute Changes What a Benchmark Means",
-    url: "../posts/test-time-compute/",
+    url: "../posts/test-time-compute/index.html",
     date: "July 7, 2026",
     summary:
       "Model capability is no longer a single score. It is closer to a budget function shaped by time, tokens, tools, and verification.",
@@ -10,7 +10,7 @@ const SEARCH_INDEX = [
   },
   {
     title: "Hidden Goals Are Not Directly Visible",
-    url: "../posts/hidden-goal/",
+    url: "../posts/hidden-goal/index.html",
     date: "July 6, 2026",
     summary:
       "A search, click, favorite, or cart event is not a person's goal. It is a trace that supports several possible explanations.",
@@ -19,7 +19,7 @@ const SEARCH_INDEX = [
   },
   {
     title: "A Benchmark Is a Value Statement",
-    url: "../posts/benchmark-as-value-statement/",
+    url: "../posts/benchmark-as-value-statement/index.html",
     date: "July 5, 2026",
     summary:
       "A benchmark decides what behavior is rewarded, what errors are ignored, and what kind of system gets built.",
