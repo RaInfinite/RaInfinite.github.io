@@ -4,6 +4,7 @@
   color-scheme: light;
   --theme: #74313a;
   --theme-muted: #536f63;
+  --welcome-title: #74313a;
   --paper: #fbfaf7;
   --ink: #202124;
   --entry-title: #343331;
@@ -115,6 +116,10 @@ h1 {
   font-family: var(--serif);
   font-size: 40px;
   line-height: 1.15;
+}
+
+#welcome-title {
+  color: var(--welcome-title);
 }
 
 h2 {
